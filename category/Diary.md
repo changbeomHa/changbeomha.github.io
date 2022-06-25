@@ -1,0 +1,7 @@
+---
+
+layout: category
+
+title: 다이어리
+
+---
